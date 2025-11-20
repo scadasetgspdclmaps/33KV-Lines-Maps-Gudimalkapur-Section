@@ -1,0 +1,1 @@
+var json_132KVASIFNAGAR33KVGUDIMALKAPUR_AB_Switch_57 = {"type":"FeatureCollection","name":"132KVASIFNAGAR33KVGUDIMALKAPUR_AB_Switch_57","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.42926,17.395268]}}]}

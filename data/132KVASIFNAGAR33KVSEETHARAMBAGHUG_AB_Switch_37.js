@@ -1,0 +1,1 @@
+var json_132KVASIFNAGAR33KVSEETHARAMBAGHUG_AB_Switch_37 = {"type":"FeatureCollection","name":"132KVASIFNAGAR33KVSEETHARAMBAGHUG_AB_Switch_37","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.429374,17.395422]}}]}
